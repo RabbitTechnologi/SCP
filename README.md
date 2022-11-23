@@ -5,4 +5,4 @@ python main.py
 
 Atau
 
-bash install.sh
+bash start.sh
